@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class stud_movement : MonoBehaviour
 {
-    const float speed = 20;
+    const float speed = 5;
     public GameObject mainChar;
     bool isRunning = false;
     Animator ani;
